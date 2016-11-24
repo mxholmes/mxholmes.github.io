@@ -1,0 +1,12 @@
+table {
+    table-layout: fixed;
+    border: 2px solid black;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 h2 {
+    color: navy;
+}
